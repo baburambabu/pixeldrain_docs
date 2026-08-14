@@ -1,7 +1,8 @@
-+++
+ unlimited download 
+ 
 title = "Content policy / Terms of service"
 weight = 40
-+++
+
 
 ## Disallowed content types
 
